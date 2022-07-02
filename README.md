@@ -17,7 +17,7 @@ The following tools are required in order to start the installation.
 Install Larvel8-Adminlte@3.2.0
 
 ```bash 
-  git clone https://github.com/ndeereedwin/laravel9-Adminlte.git
+  git clone https://github.com/KodaiNinja/laravel9-Adminlte.git
 
   composer install
 
